@@ -1,0 +1,29 @@
+/* 
+    Document   : christrees.css
+    Created on : July 17, 2011, 9:20:23 AM
+    Author     : ChrisT
+    Description:
+        christrees.css used by index.html on christrees.com
+        target tag is id 
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+   Put notes here and the IDE will pick up crap
+   I also need to get the auto documenting stuff going so you can see that
+*/
+{
+	margin: 0;
+	padding: 0;
+}
+#christbackground {
+	//position:absolute;
+	//top:35px;
+	width:688px;
+	height:470px;
+	z-index:0;
+	border:0px;
+	background-image:url(../images/leaf-02.jpg);
+	background-repeat:no-repeat;
+}
