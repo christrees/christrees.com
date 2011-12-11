@@ -53,7 +53,7 @@ body {
   position:absolute; 
   left:0; 
   top:0; 
-  background:transparent url(../images/leaf-02_hover.jpg) no-repeat 470px 688px; 
+  background:transparent url(../images/leaf-03_hover.jpg) no-repeat 470px 688px; 
   cursor:default;
   }
 /* the hack for IE pre IE6 */
@@ -83,7 +83,7 @@ body {
   }
 #imap #pic2{
   left:80px; 
-  top:250px; 
+  top:200px; 
   z-index:20;
   }
 #imap #pic1 {
@@ -105,8 +105,8 @@ body {
   #imap a#blog {
   display:block; 
   width:200px; 
-  height:300px; 
-  background:transparent url(../images/blog.png) -150px -100px no-repeat; 
+  height:150px; 
+  background:transparent url(../images/clog.png) -150px -100px no-repeat; 
   background-size: 100%;
   /*background:transparent url(../images/leaf-02_hover.jpg) no-repeat 470px 688px; */
   text-decoration:none; 
